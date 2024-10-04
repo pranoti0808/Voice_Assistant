@@ -1,1 +1,1 @@
-Voice Assistant (Jarvis)
+Virtual Voice Assistant (Jarvis)
